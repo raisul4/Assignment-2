@@ -1,0 +1,111 @@
+.root{
+    
+    height: 1274px;
+ background-color: palegreen;
+}
+.bac_image{
+    border: 1px solid black;
+    height: 256px;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.descrip{
+    
+    height: 28px;
+    text-align: center;
+}
+.hh2{
+    margin: 0 auto;
+    color: rgb(116, 7, 241);
+    font-family: sans-serif;
+}
+.gallery{
+    
+    height:256px;
+}
+.descrip_2{
+   
+    height: 128px;
+    text-align: center;
+}
+.btn{
+   color: rgb(22, 21, 21);
+   font-size: 15px;
+    text-decoration: none;
+    background-color: springgreen;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-weight: bold;
+    font-style: inherit;
+}
+.letter{
+ 
+    height: 250px;
+}
+.right,
+.leftt{
+
+    height: 100%;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.R1,
+.R2,
+.R3{
+    height: 100%;
+    width: 33%;
+    border: turquoise;
+    float: left;
+    text-align: center;
+}
+img{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.about{
+    height: 228px;
+
+}
+.abo,
+.cont{
+    height: 100%;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.abo{
+    color: rgb(85, 14, 81);
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(61, 135, 245);
+}
+.cont{
+    color: rgb(231, 163, 75);
+    font-weight: bold;
+    font-size: 20px;
+    background-color: darkslategrey;
+   
+}
+.footer{
+    height:128px;
+    text-align: center;
+    background-color: rgb(15, 15, 15);
+    color: rgb(245, 241, 241);
+    padding-top: 15px;
+}
+.R1{
+    background-color: rgb(87, 166, 170);
+}
+.R2{
+    background-color: coral;
+}
+.R3{
+    background-color: darkgoldenrod;
+}
